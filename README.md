@@ -1,2 +1,3 @@
-device_asus_tf700t
-==================
+doesn't boot...quite.
+
+#blamenvidia
